@@ -1,0 +1,159 @@
+.hitam{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+}
+.biru{
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+    justify-content: space-around;
+}
+.bungk1{
+    width: 50%;
+    height: 500px;
+    display: flex;
+    padding-top: 100px;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.biru1{
+    width: 20%;
+    height: 400px;
+    background-color: aqua;
+}
+.biru2{
+    width: 30%;
+    height: 400px;
+    background-color: aqua;
+}
+.bungk2{
+    width: 50%;
+    height: 500px;
+    display: flex;
+    padding-top: 100px;
+    margin: auto;
+    justify-content: space-evenly;
+
+    
+}
+.biru3{
+    width: 60%;
+    height: 400px;
+    background-color: aqua;
+}
+.biru4{
+    width: 35%;
+    height: 400px;
+    background-color: aqua;
+}
+.bungk3{
+    width: 50%;
+    height: 500px;
+    display: flex;
+    padding-top: 90px;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.bulat{
+    width: 20%;
+    height: 200px;
+    border-radius: 100%;
+    background-color: aqua;
+}
+.bungk{
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.foto{
+    width: 30%;
+    height: 300px;
+    background-color: white;
+    margin-top: 10px;
+    
+}
+.keterangan{
+    width: 40%;
+    height: 300px;
+   
+}
+.tombol{
+    width: 20%;
+    height: 30px;
+    background-color: black;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: white;
+    
+    
+    
+}
+.tombol1{
+    width: 5%;
+    height: 30px;
+    background-color: aqua;
+    margin: auto;
+    margin-left: 63%;
+    
+    
+    
+
+}
+.kata1{
+    margin: auto;
+    margin-left: 20px;
+    margin-top: 5px;
+    
+}
+.persegi-p{
+    width: 80%;
+    height: 60px;
+    background-color: blue;
+    margin: auto;
+}
+.po{
+    text-align: center;
+    padding-top: 7px;
+    color: white;
+}
+.bottom{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.ok{
+    color: white;
+    text-align: center;
+}
+.oa{
+    color: white;
+    text-align: center;
+}
+.kenapa{
+    width: 30%;
+    height: 100px;
+   /* background-color: red;*/
+    padding-top: 20px;
+    margin-left: 15px;
+
+}
+.k{
+    width: 100%;
+    height: 400px;
+}
+.e{
+    width: 100%;
+    height: 400px;
+}
